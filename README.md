@@ -56,9 +56,9 @@ These issues hinder the overall productivity and sustainability of rice farming,
 
  We welcome partnerships and support from individuals, organizations, and institutions interested in empowering rice farmers and promoting sustainable agriculture. For more information or to get involved, please contact us at georgerubinga@gmail.com.
 
-**Licence**
+**License**
 
-This project is licensed under the MIT License. See the LICENSE file for more details.
+This project is licensed under the MIT License. See the **LICENSE** file for more details.
 
 **Acknowledgements**
 
